@@ -5,7 +5,7 @@ This project focuses on automatic summarization of radiology reports using deep 
 
 1. Clinical summary (technical – for doctors)
 2. Simplified summary (easy language – for patients)
-
+Colab link : https://colab.research.google.com/drive/1aG5ZHcYqF8X0BYxnJ9zmz5gOhP7MEOrq?usp=sharing
 ---
 
 ## 📌 Project Overview  
