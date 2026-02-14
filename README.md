@@ -1,3 +1,4 @@
+
 # 🩺 Radiology Report Dual Summarizer  
 
 This project focuses on automatic summarization of radiology reports using deep learning and transformer-based models. The goal is to generate concise and clinically meaningful summaries from long radiology findings. The system is designed to support both **doctors** and **patients** by providing two types of summaries:
@@ -93,7 +94,7 @@ Possible pneumonia.
 ### 🔹 Patient Summary  
 This means there may be an infection in the lower part of the lung.
 
-<img width="1523" height="163" alt="result" src="https://github.com/user-attachments/assets/1aa7b136-3939-449b-930f-2b940cd4045e" />
+<img width="580" height="170" alt="Screenshot 2026-02-14 at 1 40 59 PM" src="https://github.com/user-attachments/assets/4f0178c6-0a24-4463-b11c-bb67b93fb2e8" />
 
 
 ---
